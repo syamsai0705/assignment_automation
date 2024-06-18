@@ -1,0 +1,6 @@
+
+Extent_reports/*
+target/*
+target/classes
+
+projectlog/application.log
